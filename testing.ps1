@@ -4,4 +4,4 @@ git checkout master
 git merge Dev
 git add *
 git commit -m "Updated"
-git push origin Dev
+git push origin master
