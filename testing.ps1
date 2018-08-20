@@ -1,3 +1,4 @@
+git checkout Dev
 git pull
 git checkout master
 git merge Dev
